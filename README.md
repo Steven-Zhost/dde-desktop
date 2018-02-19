@@ -1,3 +1,5 @@
+###2018.2.18  原项目已合并至dde-files-manager，此项目为2017.7最终版本
+
 ###dde-desktop
 
 dde-desktop is core component of DDE.
